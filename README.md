@@ -23,7 +23,6 @@
    1. 顺序存储 SequentialList
 
       + 获取
-
       - 插入
       - 删除
 
@@ -114,8 +113,6 @@
    1. 顺序查找 SequentialSearch
 
       + 顺序查找 
-
-
       + 顺序查找优化
 
    2. 有序表查找 OrderlyTableSearch
@@ -147,6 +144,7 @@
       + 冒泡排序初级版
       + 冒泡排序
       + 冒泡排序优化
+
    7. 简单选择排序 SimpleSelectionSort
 
    3. 直接插入排序 StraighInsertionSort
