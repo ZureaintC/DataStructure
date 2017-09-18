@@ -19,6 +19,7 @@
 		5654699D1F6BC95700526210 /* HeapSort.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5654699C1F6BC95700526210 /* HeapSort.swift */; };
 		5654699F1F6C1C0000526210 /* MergeSort.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5654699E1F6C1C0000526210 /* MergeSort.swift */; };
 		565469A21F6FA51500526210 /* QuickSort.swift in Sources */ = {isa = PBXBuildFile; fileRef = 565469A11F6FA51500526210 /* QuickSort.swift */; };
+		565469A51F6FAD5500526210 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 565469A41F6FAD5500526210 /* README.md */; };
 		56FBA2491F4138C0000B4941 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56FBA2481F4138C0000B4941 /* AppDelegate.swift */; };
 		56FBA24B1F4138C0000B4941 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56FBA24A1F4138C0000B4941 /* ViewController.swift */; };
 		56FBA24E1F4138C0000B4941 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 56FBA24C1F4138C0000B4941 /* Main.storyboard */; };
@@ -76,6 +77,7 @@
 		5654699C1F6BC95700526210 /* HeapSort.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HeapSort.swift; sourceTree = "<group>"; };
 		5654699E1F6C1C0000526210 /* MergeSort.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MergeSort.swift; sourceTree = "<group>"; };
 		565469A11F6FA51500526210 /* QuickSort.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = QuickSort.swift; sourceTree = "<group>"; };
+		565469A41F6FAD5500526210 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		56FBA2451F4138C0000B4941 /* DataStructure.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DataStructure.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		56FBA2481F4138C0000B4941 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		56FBA24A1F4138C0000B4941 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -163,6 +165,7 @@
 		56FBA23C1F4138C0000B4941 = {
 			isa = PBXGroup;
 			children = (
+				565469A41F6FAD5500526210 /* README.md */,
 				56FBA2471F4138C0000B4941 /* DataStructure */,
 				56FBA25F1F4138C1000B4941 /* DataStructureTests */,
 				56FBA26A1F4138C1000B4941 /* DataStructureUITests */,
@@ -425,6 +428,7 @@
 				56FBA29E1F42EAF6000B4941 /* ChildBrotherTree.swift in Sources */,
 				56FBA2941F429E50000B4941 /* LinkQueue.swift in Sources */,
 				562C96E61F4AE61F001020D8 /* SequentialSearch.swift in Sources */,
+				565469A51F6FAD5500526210 /* README.md in Sources */,
 				56FBA2511F4138C0000B4941 /* DataStructure.xcdatamodeld in Sources */,
 				5654699F1F6C1C0000526210 /* MergeSort.swift in Sources */,
 				56FBA2A71F4416AC000B4941 /* AdjacencyList.swift in Sources */,

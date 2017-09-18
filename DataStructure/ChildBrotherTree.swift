@@ -7,6 +7,8 @@
 //
 
 import Foundation
+
+/// 孩子兄弟表示法
 class ChildBrotherTreeNode{
     var data:AnyObject?
     var firstChild :ChildBrotherTreeNode?

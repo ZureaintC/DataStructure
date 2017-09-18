@@ -305,6 +305,8 @@ class AdjacencyList{
         print(shortPathTable)
         print(patharc)
     }
+
+    /// 最短路径 Floyd算法
     func shortestPaths_Floyd(){
         var pathmatirx :Array<Array<Int>> = Array(repeating: Array(repeating: 0, count: self.numVertexes), count: self.numVertexes) //前驱结点下标
         var shortPathTable :Array<Array<Int>>  = Array(repeating: Array(repeating: 0, count: self.numVertexes), count: self.numVertexes)//node到[i]的最短路径长度和
@@ -349,7 +351,7 @@ class AdjacencyList{
     }
     
     /// 拓扑排序 针对有向图
-    /// 未测试，或存在错误
+    /// - TODO: 未测试，或存在错误
     /// - Returns: 是否存在环
     func topologicalSort() -> Bool{
         var edge :AdjacencyListEdgeNode = AdjacencyListEdgeNode()

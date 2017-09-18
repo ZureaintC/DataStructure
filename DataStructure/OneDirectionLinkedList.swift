@@ -55,6 +55,8 @@ class OneDirectionLinkedList {
             self.length += 1
         }
     }
+    
+    /// 清空链表
     func clearList(){
         var p,q :OneDirectionLinkedListNode?
         p = self.headNode?.next

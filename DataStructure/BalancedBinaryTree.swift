@@ -15,7 +15,7 @@ class BalancedBinaryTreeNode{
     var lchild,rchild :BalancedBinaryTreeNode?
     
     /// 插入操作
-    /// - TODO: 再处理双旋的时候有问题，待解决
+    /// - TODO: 在处理双旋的时候有问题，待解决
     /// - Parameters:
     ///   - t: 目标节点
     ///   - e: 值

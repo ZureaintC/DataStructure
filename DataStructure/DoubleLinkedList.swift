@@ -74,7 +74,7 @@ class DoubleLinkedList{
     }
     
     /// 双向链表删除
-    ///TODO : 会将头结点删除
+    /// - TODO : 会将头结点删除
     /// - Parameter index: 目标序号
     /// - Returns: 是否成功
     func listDelete(index:Int) -> Bool{
