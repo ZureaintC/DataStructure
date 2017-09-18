@@ -23,8 +23,8 @@
    1. 顺序存储 SequentialList
 
       + 获取
-      - 插入
-      - 删除
+      + 插入
+      + 删除
 
    2. 单链存储 OneDirectionLinkedList
 
